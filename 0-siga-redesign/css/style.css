@@ -332,17 +332,22 @@ body {
     }
 
     .slide:nth-child(1) {
-        background-image: linear-gradient(rgba(26, 71, 42, 0.7), rgba(45, 90, 39, 0.7)), url('https://images.pexels.com/photos/1107717/pexels-photo-1107717.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+        background-image: linear-gradient(rgba(26, 71, 42, 0.7), rgba(45, 90, 39, 0.7)), url('https://images.pexels.com/photos/9336587/pexels-photo-9336587.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
         animation-delay: 0s;
     }
 
     .slide:nth-child(2) {
-        background-image: linear-gradient(rgba(26, 71, 42, 0.7), rgba(45, 90, 39, 0.7)), url('https://images.pexels.com/photos/3996362/pexels-photo-3996362.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+        background-image: linear-gradient(rgba(26, 71, 42, 0.7), rgba(45, 90, 39, 0.7)), url('../assets/cocobod.jpg');
         animation-delay: 8s;
     }
 
     .slide:nth-child(3) {
-        background-image: linear-gradient(rgba(26, 71, 42, 0.7), rgba(45, 90, 39, 0.7)), url('https://images.pexels.com/photos/1165981/pexels-photo-1165981.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+        background-image: linear-gradient(rgba(26, 71, 42, 0.7), rgba(45, 90, 39, 0.7)), url('../assets/GWP-tdi_thumbnail.jpeg');
+        animation-delay: 16s;
+    }
+
+    .slide:nth-child(4) {
+        background-image: linear-gradient(rgba(26, 71, 42, 0.7), rgba(45, 90, 39, 0.7)), url('../assets/factory.png');
         animation-delay: 16s;
     }
 
